@@ -1,2 +1,15 @@
 This is my first page 
 This is my second line
+
+DVCS Stages:
+1. Working Copy
+2. Staging/Tracking copy
+3. Local Copy
+4. Remote copy
+
+1. git initialize -  the git repo - git init
+2. git status - to know the untracked files
+3. git remote add origin <url>
+4. git add .
+5. git commit -m "msg"
+6. git push origin master
