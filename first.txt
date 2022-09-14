@@ -1,6 +1,6 @@
 This is my first page 
 This is my second line
-
+Ahmad Diallo
 DVCS Stages:
 1. Working Copy
 2. Staging/Tracking copy
