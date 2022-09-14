@@ -1,3 +1,4 @@
+Hello everyone, thank you for you section on DevOps.
 This is my first page 
 This is my second line
 
