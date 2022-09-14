@@ -1,3 +1,4 @@
+Hello everyone, thank you for you section on DevOps.
 This is my first page 
 This is my second line
 Ahmad Diallo
@@ -13,3 +14,7 @@ DVCS Stages:
 4. git add .
 5. git commit -m "msg"
 6. git push origin master
+
+This is John
+
+this is sunny
